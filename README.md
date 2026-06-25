@@ -31,7 +31,7 @@ Creemos en la tecnología como motor de transformación digital y trabajamos con
 ## 🛠️ Tecnologías
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,php,mysql,git,github,vscode" />
 </p>
 
 ## 📊 Estadísticas
