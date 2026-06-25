@@ -1,45 +1,65 @@
 <p align="center">
-  <img src="https://i.ibb.co/tp1NG0h9/logo-goleman-nombre-1.jpg" alt="Tecnología Goleman IPS" width="250">
+  <img src="https://i.ibb.co/tp1NG0h9/logo-goleman-nombre-1.jpg" alt="Tecnología Goleman IPS" width="280">
 </p>
 
-<h1 align="center">🤖 Hola, somos Tecnología Goleman IPS</h1>
+<h1 align="center">🤖 Tecnología Goleman IPS</h1>
 
 <p align="center">
   Desarrollo de Software • Automatización • Innovación Digital
 </p>
 
-<hr>
-
-<h2>📖 Sobre Nosotros</h2>
-
-<p>
-En <strong>Tecnología Goleman IPS</strong> nos dedicamos al desarrollo de soluciones tecnológicas que facilitan y optimizan procesos digitales. Nuestro enfoque está en crear herramientas prácticas, eficientes y accesibles, combinando innovación, automatización y desarrollo de software para responder a las necesidades de nuestros usuarios.
+<p align="center">
+  Transformamos ideas en soluciones tecnológicas eficientes y accesibles.
 </p>
 
-<p>
-Trabajamos constantemente en la creación de proyectos que aporten valor, mejoren la productividad y promuevan el uso de la tecnología como una herramienta para el crecimiento y la transformación digital.
+<br>
+
+## 📖 Sobre Nosotros
+
+En **Tecnología Goleman IPS** desarrollamos soluciones tecnológicas que optimizan procesos y mejoran la productividad. Nuestro enfoque combina desarrollo de software, automatización e innovación para crear herramientas prácticas, seguras y adaptadas a las necesidades de nuestros usuarios.
+
+Creemos en la tecnología como motor de transformación digital y trabajamos constantemente para ofrecer proyectos que generen valor real.
+
+## 🚀 Nuestros Servicios
+
+* 💻 Desarrollo de Software
+* 🌐 Desarrollo Web
+* ⚙️ Automatización de Procesos
+* 🔒 Soluciones Tecnológicas Personalizadas
+* 📱 Aplicaciones Digitales
+
+## 🛠️ Tecnologías
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,mysql,git,github,vscode" />
 </p>
 
-<hr>
+## 📊 Estadísticas
 
-<h2>🔗 Conéctate con nosotros</h2>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=TecnologiaGolemanIps&theme=dark&hide_border=true&locale=es&short_numbers=true" alt="GitHub Streak" />
+</p>
+
+## 🔗 Conéctate con Nosotros
 
 <p align="center">
   <a href="https://www.instagram.com/golemanips/?hl=es">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 
   <a href="https://co.linkedin.com/company/golemanips">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 
   <a href="https://www.facebook.com/golemanips?locale=es_LA">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
   </a>
 </p>
 
-<hr>
+---
 
 <p align="center">
-  © 2026 Tecnología Goleman IPS · Transformando ideas en soluciones tecnológicas 🚀
+  © 2026 Tecnología Goleman IPS
+  <br>
+  🚀 Transformando ideas en soluciones tecnológicas
 </p>
