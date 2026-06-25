@@ -20,14 +20,6 @@ En **Tecnología Goleman IPS** desarrollamos soluciones tecnológicas que optimi
 
 Creemos en la tecnología como motor de transformación digital y trabajamos constantemente para ofrecer proyectos que generen valor real.
 
-## 🚀 Nuestros Servicios
-
-* 💻 Desarrollo de Software
-* 🌐 Desarrollo Web
-* ⚙️ Automatización de Procesos
-* 🔒 Soluciones Tecnológicas Personalizadas
-* 📱 Aplicaciones Digitales
-
 ## 🛠️ Tecnologías
 
 <p align="center">
